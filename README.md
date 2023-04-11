@@ -1,40 +1,34 @@
-# ITP 2020/2021 TA Class
+# Robogals Git Demo :)
 
-Introduction to programming 2020/2021
+## Demo
 
-> WARNING: The folder format has changed from {name}:{studentID} to {name}-{studentID} please use the new format
-
-## How to use
-
-To submit an assignment please create pull request from your fork, please refer to INITIAL SETUP section for further instruction.
-
-On if your repo is not in sync with the main repo, please check UPDATING YOUR REPO (PUlLING NEW CHANGES).
-
-Each exercise will be provided on a folder and will require you to do the specified task,
-Please create a new folder inside the exercise folder, with the following name format:
+Make a folder with the naming convention below
 
 ```
-{name}-{studentID}
+{name}-{RoomID}
 ```
 
 For example:
 
 ```
-Ravel_Tanjaya-8888888888
+MemesLol-02
 ```
 
-Then store your answer inside that folder
+Then store anything inside that folder (can be a simple hello world (＾▽＾))
 
-### Initial Setup
+### What to do
 
 Please fork this repo, by clicking on the fork button at the top left corner
 Github will then take some time to copy this repository over to your account.
 
 Your repo is now available on your account, to get the forked repo to your local machine, you may copy the https/ssh clone url then,
 
+
 ```bash
 git clone {your url}
 ```
+
+> Copy the url of the <b>FORKED</b> repo, not the one in my GitHub
 
 > Please change {your url} to the url you copied before without the curly braces ({}).
 
