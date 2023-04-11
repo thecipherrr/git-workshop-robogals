@@ -96,9 +96,4 @@ git rebase upstream/master
 
 > !!! WARNING : By using git rebase upstream/master all of your current progress will be deleted!
 
-## Questions
-
-For questions, please contact me:
-
-- Line : ravelchen
-- instagram : raveltanjaya
+## GooD LUck!
