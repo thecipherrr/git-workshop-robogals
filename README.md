@@ -59,7 +59,7 @@ git push
 
 You may push changes a few times to the server, you may also do a few commits before pushing, remember that commits acts like a snapshot so that you can get back to a version of your code in the future.
 
-If you think that all is good, you can create a pull request to merge your repo with the main repo in https://github.com/raveltan/itp-git.git
+If you think that all is good, you can create a pull request to merge your repo with the main repo in https://github.com/thecipherrr/git-workshop-robogals
 
 > Make sure your code doesn't interfere with your friend's and you don't delete any other part of the repo. Any pull request that doesn't comply with this rules will not be approved.
 
@@ -72,7 +72,7 @@ You can run the following:
 git remote add upstream <original repo>
 ```
 
-> Replace original repo with https://github.com/raveltan/itp-git.git
+> Replace original repo with https://github.com/thecipherrr/git-workshop-robogals
 
 > The code above is a one-time setup on every cloned repo, after that you just need to run the code below (every cloned repo means, if you re-clone the repo from your place, you'll need to rerun the command above).
 
@@ -90,4 +90,4 @@ git rebase upstream/master
 
 > !!! WARNING : By using git rebase upstream/master all of your current progress will be deleted!
 
-## GooD LUck!
+## GooD LUck! :DD
